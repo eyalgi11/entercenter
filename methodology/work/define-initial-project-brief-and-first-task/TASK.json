@@ -1,0 +1,18 @@
+{
+  "generator_version": "methodology-toolkit-2026-03-26.1",
+  "handoff_path": "methodology/work/define-initial-project-brief-and-first-task/HANDOFF.md",
+  "next_step": "Review TASKS.md and pick the next concrete step.",
+  "release_risk": "n/a",
+  "resume_here": "Review TASKS.md and pick the next concrete step.",
+  "risk_class": "n/a",
+  "schema_version": "2026-03-26.1",
+  "spec": "n/a",
+  "state": "setup",
+  "state_path": "methodology/work/define-initial-project-brief-and-first-task/STATE.md",
+  "summary": "Work started.",
+  "task": "Define initial project brief and first task",
+  "task_slug": "define-initial-project-brief-and-first-task",
+  "updated_at": "2026-03-29 16:29:23",
+  "verification_path": "Define PROJECT_BRIEF.md, set the first task in TASKS.md, and record the intended verification path before implementation starts.",
+  "work_type": "product"
+}
